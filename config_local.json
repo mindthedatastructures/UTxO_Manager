@@ -1,0 +1,4 @@
+{
+    "mainnet_socket": "/path/to/your/socket.socket",
+    "cardano-cli": "/path/to/your/cardano-cli"
+}
