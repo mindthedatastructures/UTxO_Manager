@@ -9,7 +9,9 @@ Graphical interface for the `cardano-cli` that allows the user to create users, 
 - Create Policies
 - Visualize policies
 - Create Transactions
-  - Send funds 
+  - Handle both Adas and Native Tokens
+  - Tool to handle fees and change
+  - Mint tokens and NFTs and load metadata to transactions 
 
 # Installation
 With python3 install the following dependencies, the usage of a venv is recommended.
