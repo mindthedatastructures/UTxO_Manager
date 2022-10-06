@@ -5,6 +5,11 @@ Graphical interface for the `cardano-cli` that allows the user to create users, 
 
 # Features
 - Create Users
+- Visualize UTxOs of users
+- Create Policies
+- Visualize policies
+- Create Transactions
+  - Send funds 
 
 # Installation
 With python3 install the following dependencies, the usage of a venv is recommended.
