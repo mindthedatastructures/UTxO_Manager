@@ -3,6 +3,8 @@
 
 Graphical interface for the `cardano-cli` that allows the user to create users, create minting policies
 
+# Features
+- Create Users
 
 # Installation
 With python3 install the following dependencies, the usage of a venv is recommended.
