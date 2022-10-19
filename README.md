@@ -1,5 +1,5 @@
 # Cardano UTxO Manager
-![Screenshot](screenshot1.png)
+![Screenshot](img/screenshot1.png)
 
 Graphical interface for the `cardano-cli` that allows the user to create users, create minting policies
 
@@ -52,8 +52,8 @@ With some extensions, a tool centered on the UTxO management can be very useful 
 
 # More Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
-![Screenshot 4](screenshot4.png)
-![Screenshot 5](screenshot5.png)
+![Screenshot 1](img/screenshot1.png)
+![Screenshot 2](img/screenshot2.png)
+![Screenshot 3](img/screenshot3.png)
+![Screenshot 4](img/screenshot4.png)
+![Screenshot 5](img/screenshot5.png)
